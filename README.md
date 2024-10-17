@@ -23,7 +23,7 @@ npm (comes with Node.js)
 Steps
 Clone the repository:
 
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/priyankaag19/React-To-Do-App.git
 Navigate into the project directory:
 
 cd todo-app
