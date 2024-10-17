@@ -19,25 +19,34 @@ Prerequisites
 Make sure you have the following installed:
 
 Node.js (version 14.x or above)
+
 npm (comes with Node.js)
+
 Steps
 Clone the repository:
 
 git clone https://github.com/priyankaag19/React-To-Do-App.git
 Navigate into the project directory:
 
-cd todo-app
+cd todo-
+
 Install the required dependencies:
 
 npm install
+
 Start the development server:
 
 npm start
+
 This will run the app in development mode. Open http://localhost:3000 to view it in the browser.
 
 ## Usage
 Add Tasks: Enter a task description in the input box and press the "Add Task" button or hit Enter.
+
 Mark as Complete/Pending: Click the checkbox next to a task to toggle its completion status.
+
 Delete Tasks: Click the "Delete" button to remove a task from the list.
+
 Filter Tasks: Use the "All", "Pending", and "Completed" buttons to filter tasks based on their status.
+
 Task Count: The total number of tasks and completed tasks are displayed at the bottom.
